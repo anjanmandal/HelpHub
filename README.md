@@ -11,7 +11,6 @@
 - [🚀 Features](#-features)
 - [🛠️ Technologies Used](#️-technologies-used)
 - [📸 Screenshots](#-screenshots)
-- [💻 Live Demo](#-live-demo)
 - [🔧 Installation](#-installation)
 - [📝 Usage](#-usage)
 - [📄 API Documentation](#-api-documentation)
@@ -57,9 +56,9 @@
 
 ## 📸 Screenshots
 
-### **Dashboard**
+### **My Bids**
 
-![Dashboard](https://github.com/yourusername/helphub/blob/main/assets/dashboard.png?raw=true)
+![Dashboard](https://github.com/anjanmandal/HelpHub/blob/main/Frontend/vite-project/src/assets/mybids.png)
 
 ### **Create Help Request**
 
@@ -72,16 +71,6 @@
 ### **Chat Conversation**
 
 ![Chat Conversation](https://github.com/anjanmandal/HelpHub/blob/main/Frontend/vite-project/src/assets/chat.png)
-
----
-
-## 💻 Live Demo
-
-Experience **HelpHub** live!
-
-[👉 View Live Demo](https://helphub.example.com)
-
-*Note: Live demo is hosted on [Vercel](https://vercel.com/) for frontend and [Heroku](https://www.heroku.com/) for backend.*
 
 ---
 
