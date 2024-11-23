@@ -1,6 +1,6 @@
 # HelpHub
 
-![HelpHub Banner](https://github.com/anjanmandal/HelpHub.git/Frontend/vite-project/src/assets/dashboard.png?raw=true)
+![HelpHub Banner](https://github.com/anjanmandal/HelpHub/blob/main/Frontend/vite-project/src/assets/react.svg)
 
 **HelpHub** is a modern, user-friendly platform that connects individuals seeking assistance with skilled professionals ready to offer their services. Whether you need help with a project, task, or any other assistance, HelpHub provides a seamless experience to create, bid, and communicate effectively.
 
