@@ -50,6 +50,31 @@
 - **JSON Web Tokens (JWT)**: For secure user authentication.
 
 ---
+## Dependencies
+
+### Frontend
+
+- **React** (`^18.0.0`): JavaScript library for building user interfaces.
+- **@mui/material** (`^5.0.0`): Material Design components for React.
+- **@mui/icons-material** (`^5.0.0`): Material Design icons for MUI.
+- **axios** (`^1.0.0`): Promise-based HTTP client for the browser and Node.js.
+- **react-router-dom** (`^6.0.0`): Declarative routing for React.
+- **socket.io-client** (`^4.0.0`): Real-time bidirectional event-based communication library.
+- **moment** (`^2.29.1`): Library for parsing, validating, manipulating, and formatting dates.
+- **dotenv** (`^10.0.0`): Loads environment variables from `.env` file.
+
+### Backend
+
+- **express** (`^4.17.1`): Fast, unopinionated, minimalist web framework for Node.js.
+- **mongoose** (`^6.0.0`): Elegant MongoDB object modeling for Node.js.
+- **bcryptjs** (`^2.4.3`): Library to hash passwords.
+- **jsonwebtoken** (`^8.5.1`): JSON Web Token implementation.
+- **express-validator** (`^6.12.1`): Express middleware for validation.
+- **socket.io** (`^4.0.0`): Real-time communication library.
+- **cors** (`^2.8.5`): Middleware for enabling CORS.
+- **dotenv** (`^10.0.0`): Loads environment variables from `.env` file.
+- **nodemon** (`^2.0.0`): Utility that automatically restarts the node application when file changes are detected.
+
 
 ## 📸 Screenshots
 
