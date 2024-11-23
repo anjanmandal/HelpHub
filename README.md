@@ -1,6 +1,6 @@
 # HelpHub
 
-![HelpHub Banner](https://github.com/anjanmandal/HelpHub/blob/main/Frontend/vite-project/src/assets/react.svg)
+![HelpHub Banner](https://github.com/anjanmandal/HelpHub/blob/main/Frontend/vite-project/src/assets/dashboard.png)
 
 **HelpHub** is a modern, user-friendly platform that connects individuals seeking assistance with skilled professionals ready to offer their services. Whether you need help with a project, task, or any other assistance, HelpHub provides a seamless experience to create, bid, and communicate effectively.
 
@@ -63,15 +63,15 @@
 
 ### **Create Help Request**
 
-![Create Help Request](https://github.com/yourusername/helphub/blob/main/assets/create-request.png?raw=true)
+![Create Help Request](https://github.com/anjanmandal/HelpHub/blob/main/Frontend/vite-project/src/assets/request.png)
 
 ### **Bidding Interface**
 
-![Bidding Interface](https://github.com/yourusername/helphub/blob/main/assets/bidding.png?raw=true)
+![Bidding Interface](https://github.com/anjanmandal/HelpHub/blob/main/Frontend/vite-project/src/assets/bid.png)
 
 ### **Chat Conversation**
 
-![Chat Conversation](https://github.com/yourusername/helphub/blob/main/assets/chat.png?raw=true)
+![Chat Conversation](https://github.com/anjanmandal/HelpHub/blob/main/Frontend/vite-project/src/assets/chat.png)
 
 ---
 
